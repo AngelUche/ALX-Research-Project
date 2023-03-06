@@ -1,6 +1,6 @@
 # ALX-Research-Project
 
-this is a student evalution performance optimization problem where the grades of sudents will be calculated base on the gradinf system of the school
+this is a student evalutaion performance optimization problem where the grades of sudents will be calculated based on the grading system of the school
 
 ========== More description coming ======
 
